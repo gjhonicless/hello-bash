@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Hello, World! It is now $(date +%D)" > hello.txt
